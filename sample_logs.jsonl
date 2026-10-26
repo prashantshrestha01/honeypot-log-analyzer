@@ -1,0 +1,10 @@
+{"eventid": "cowrie.session.connect", "src_ip": "203.0.113.10", "timestamp": "2026-10-20T10:00:00Z", "session": "s1"}
+{"eventid": "cowrie.login.failed", "src_ip": "203.0.113.10", "username": "root", "password": "123456", "timestamp": "2026-10-20T10:00:05Z", "session": "s1"}
+{"eventid": "cowrie.login.failed", "src_ip": "203.0.113.10", "username": "root", "password": "password", "timestamp": "2026-10-20T10:00:08Z", "session": "s1"}
+{"eventid": "cowrie.login.success", "src_ip": "203.0.113.10", "username": "root", "password": "admin", "timestamp": "2026-10-20T10:00:12Z", "session": "s1"}
+{"eventid": "cowrie.command.input", "src_ip": "203.0.113.10", "input": "uname -a", "timestamp": "2026-10-20T10:00:20Z", "session": "s1"}
+{"eventid": "cowrie.command.input", "src_ip": "203.0.113.10", "input": "cat /etc/passwd", "timestamp": "2026-10-20T10:00:25Z", "session": "s1"}
+{"eventid": "cowrie.session.closed", "src_ip": "203.0.113.10", "timestamp": "2026-10-20T10:02:00Z", "session": "s1"}
+{"eventid": "cowrie.session.connect", "src_ip": "198.51.100.7", "timestamp": "2026-10-20T11:00:00Z", "session": "s2"}
+{"eventid": "cowrie.login.failed", "src_ip": "198.51.100.7", "username": "admin", "password": "admin", "timestamp": "2026-10-20T11:00:03Z", "session": "s2"}
+{"eventid": "cowrie.session.closed", "src_ip": "198.51.100.7", "timestamp": "2026-10-20T11:00:30Z", "session": "s2"}
